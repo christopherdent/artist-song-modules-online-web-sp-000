@@ -1,5 +1,5 @@
 
-
+require 'pry'
 
 module Findable 
   
